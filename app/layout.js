@@ -18,8 +18,8 @@ export default function RootLayout({ children }) {
     </header>
   )
   const footer = (
-    <footer>
-      footer
+    <footer className="p-4 sm:p-8">
+      gymmmmm
     </footer>
   )
   return (
